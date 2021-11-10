@@ -1,4 +1,4 @@
-# run-buddy3
+# run-buddy3 Inc.
 
 ## Purpose 
 A website that offers fitness training services.
