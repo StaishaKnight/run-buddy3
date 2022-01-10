@@ -1,8 +1,7 @@
-<<<<<<< HEAD
+HEAD
 # run-buddy3 Inc.
 =======
-# run-buddy3, Inc.
->>>>>>> d45cfa14c784842f7a6066ae38031f119149a69f
+
 
 ## Purpose 
 A website that offers fitness training services.
@@ -12,7 +11,7 @@ A website that offers fitness training services.
 *CSS
 
 ## Website
-file:///Users/staishaknight/Desktop/projects/run-buddy/index.html
+https://staishaknight.github.io/run-buddy3/
 
 ## Contribution
 Made with ❤️ by Staisha Knight
